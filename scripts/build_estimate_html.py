@@ -461,7 +461,7 @@ html_content = f"""<!DOCTYPE html>
     <div class="meta-card">
       <div><strong>Client:</strong> Freedom Motors USA Leadership (Battle Creek, MI)</div>
       <div><strong>Timeline:</strong> 2–3 Weeks (Turnkey Rollout)</div>
-      <div><strong>Calibrated Rate:</strong> <strong>$38.00 / hr (Turnkey Package: $2,660.00)</strong></div>
+      <div><strong>Calibrated Rate:</strong> <strong>$50.00 / hr (Turnkey Package: $3,500.00)</strong></div>
       <div><strong>Live Prototype:</strong> <span class="live-badge">Verified &amp; Audited</span></div>
     </div>
   </div>
@@ -501,8 +501,8 @@ html_content = f"""<!DOCTYPE html>
             <div class="phase-desc">Architect isolated 'sync' vs 'editorial' fieldsets. Programmatic readOnly locks protect feed data while guaranteeing 0.00% overwrite risk on human marketing headlines and descriptions. High-performance GROQ query pipelines.</div>
           </td>
           <td style="text-align: center; font-weight: 600;">16.0 hrs</td>
-          <td style="text-align: right;">$38.00</td>
-          <td style="text-align: right; font-weight: 700;">$608.00</td>
+          <td style="text-align: right;">$50.00</td>
+          <td style="text-align: right; font-weight: 700;">$800.00</td>
         </tr>
         <tr>
           <td class="phase-num">Phase 2</td>
@@ -511,8 +511,8 @@ html_content = f"""<!DOCTYPE html>
             <div class="phase-desc">Scheduled 04:00 AM EST cron connecting via secure FTPS (TLS 1.3). Streaming ExcelJS parser processes raw spreadsheet rows. Intelligent diffing engine executes atomic client.patch().set() mutations. Sentry alerts on missing columns or schema drift.</div>
           </td>
           <td style="text-align: center; font-weight: 600;">18.0 hrs</td>
-          <td style="text-align: right;">$38.00</td>
-          <td style="text-align: right; font-weight: 700;">$684.00</td>
+          <td style="text-align: right;">$50.00</td>
+          <td style="text-align: right; font-weight: 700;">$900.00</td>
         </tr>
         <tr>
           <td class="phase-num">Phase 3</td>
@@ -521,8 +521,8 @@ html_content = f"""<!DOCTYPE html>
             <div class="phase-desc">React Server Component vehicle catalog and VDPs. Sanity publish webhook triggers `/api/revalidate`, purging Vercel edge tags (`vdp-[slug]`) worldwide in &lt;50ms without site rebuilds. Interactive wheelchair ramp fit calculator and dynamic OG cards.</div>
           </td>
           <td style="text-align: center; font-weight: 600;">18.0 hrs</td>
-          <td style="text-align: right;">$38.00</td>
-          <td style="text-align: right; font-weight: 700;">$684.00</td>
+          <td style="text-align: right;">$50.00</td>
+          <td style="text-align: right; font-weight: 700;">$900.00</td>
         </tr>
         <tr>
           <td class="phase-num">Phase 4</td>
@@ -531,8 +531,8 @@ html_content = f"""<!DOCTYPE html>
             <div class="phase-desc">Structured GTM dataLayer event dispatch (`ada_fit_calculated`, `view_item`, `lead_submission`). Meta Conversions API (CAPI) server bridge for high-fidelity conversion tracking. HubSpot test drive form routing to Battle Creek sales reps.</div>
           </td>
           <td style="text-align: center; font-weight: 600;">10.0 hrs</td>
-          <td style="text-align: right;">$38.00</td>
-          <td style="text-align: right; font-weight: 700;">$380.00</td>
+          <td style="text-align: right;">$50.00</td>
+          <td style="text-align: right; font-weight: 700;">$500.00</td>
         </tr>
         <tr>
           <td class="phase-num">Phase 5</td>
@@ -541,14 +541,14 @@ html_content = f"""<!DOCTYPE html>
             <div class="phase-desc">Strict isolation across development (`freedom-dev`), staging (`freedom-stage`), and production (`freedom-production`). Dataset migration CLI scripts, environment variable encryption, DNS cutover from legacy WordPress, and operational handoff.</div>
           </td>
           <td style="text-align: center; font-weight: 600;">8.0 hrs</td>
-          <td style="text-align: right;">$38.00</td>
-          <td style="text-align: right; font-weight: 700;">$304.00</td>
+          <td style="text-align: right;">$50.00</td>
+          <td style="text-align: right; font-weight: 700;">$400.00</td>
         </tr>
         <tr class="total-row">
           <td colspan="2" style="text-align: left; font-weight: 800;">TOTAL COMPLETE TURNKEY FREEDOM MOTORS PLATFORM</td>
           <td style="text-align: center; font-weight: 800;">70.0 hrs</td>
-          <td style="text-align: right; font-weight: 800;">$38.00</td>
-          <td style="text-align: right; font-weight: 800;">$2,660.00</td>
+          <td style="text-align: right; font-weight: 800;">$50.00</td>
+          <td style="text-align: right; font-weight: 800;">$3,500.00</td>
         </tr>
       </tbody>
     </table>
@@ -561,19 +561,19 @@ html_content = f"""<!DOCTYPE html>
       <div class="card-box-title">Modular Milestone Options (Fixed-Price Flexibility)</div>
       <div class="milestone-item">
         <span class="milestone-name"><strong>Option A:</strong> Core Sanity &amp; FTP Ingestion Engine (Phases 1 &amp; 2)</span>
-        <span class="milestone-val">$1,292.00 (34.0 hrs)</span>
+        <span class="milestone-val">$1,700.00 (34.0 hrs)</span>
       </div>
       <div class="milestone-item">
         <span class="milestone-name"><strong>Option B:</strong> Next.js 15 Frontend + Sub-50ms ISR (Phase 3)</span>
-        <span class="milestone-val">$684.00 (18.0 hrs)</span>
+        <span class="milestone-val">$900.00 (18.0 hrs)</span>
       </div>
       <div class="milestone-item">
         <span class="milestone-name"><strong>Option C:</strong> Telemetry, CAPI &amp; Environment Cutover (Phases 4 &amp; 5)</span>
-        <span class="milestone-val">$684.00 (18.0 hrs)</span>
+        <span class="milestone-val">$900.00 (18.0 hrs)</span>
       </div>
       <div class="milestone-item">
         <span class="milestone-name"><strong>Option D:</strong> Complete Turnkey Package (All Phases + Warranty)</span>
-        <span class="milestone-val">$2,660.00 (70.0 hrs)</span>
+        <span class="milestone-val">$3,500.00 (70.0 hrs)</span>
       </div>
     </div>
 
@@ -604,7 +604,7 @@ html_content = f"""<!DOCTYPE html>
       </div>
       <div class="term-col">
         <div class="term-title">Quote Validity</div>
-        <div class="term-body">Valid for 30 days through October 15, 2026. Turnkey fixed price of $2,660.00 covers all specified deliverables without hidden fees.</div>
+        <div class="term-body">Valid for 30 days through October 15, 2026. Turnkey fixed price of $3,500.00 covers all specified deliverables without hidden fees.</div>
       </div>
     </div>
   </div>
