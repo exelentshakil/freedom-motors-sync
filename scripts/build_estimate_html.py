@@ -57,7 +57,7 @@ html_content = f"""<!DOCTYPE html>
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 12px;
+      gap: 14px;
       border-bottom: 2px solid #1d4ed8;
       padding-bottom: 6px;
     }}
@@ -68,10 +68,11 @@ html_content = f"""<!DOCTYPE html>
     .brand-title {{
       font-size: 8.5px;
       font-weight: 800;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.05em;
       text-transform: uppercase;
       color: #1d4ed8;
       margin-bottom: 2px;
+      white-space: nowrap;
     }}
     h1 {{
       font-size: 15px;
@@ -80,12 +81,14 @@ html_content = f"""<!DOCTYPE html>
       margin: 0 0 2px 0;
       letter-spacing: -0.02em;
       line-height: 1.15;
+      white-space: nowrap;
     }}
     .subtitle {{
       font-size: 8.8px;
       color: #475569;
       margin: 0;
       line-height: 1.25;
+      white-space: nowrap;
     }}
     .meta-card {{
       flex-shrink: 0;
@@ -97,6 +100,7 @@ html_content = f"""<!DOCTYPE html>
       text-align: right;
       line-height: 1.38;
       box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+      white-space: nowrap;
     }}
     .meta-card strong {{
       color: #0f172a;
@@ -454,14 +458,14 @@ html_content = f"""<!DOCTYPE html>
   <!-- 1. Executive Header -->
   <div class="header">
     <div class="header-left">
-      <div class="brand-title">BarakahSoft LLC • Enterprise Systems Engineering • Ref #BS-2026-FREEDOM-091</div>
+      <div class="brand-title">BarakahSoft LLC • Systems Engineering • Ref #BS-2026-091</div>
       <h1>Freedom Motors USA Next.js &amp; Sanity CMS Platform</h1>
-      <p class="subtitle">Daily FTPS Excel Ingestion Engine, Sanity Fieldset Lock Immunity, Sub-50ms Edge ISR &amp; ADA Ramp Telemetry</p>
+      <p class="subtitle">Daily FTPS Excel Ingestion, Sanity Fieldset Lock Immunity, Sub-50ms Edge ISR &amp; ADA Telemetry</p>
     </div>
     <div class="meta-card">
-      <div><strong>Client:</strong> Freedom Motors USA Leadership (Battle Creek, MI)</div>
+      <div><strong>Client:</strong> Freedom Motors USA (Battle Creek, MI)</div>
       <div><strong>Timeline:</strong> 2–3 Weeks (Turnkey Rollout)</div>
-      <div><strong>Calibrated Rate:</strong> <strong>$50.00 / hr (Turnkey Package: $3,500.00)</strong></div>
+      <div><strong>Calibrated Rate:</strong> <strong>$50.00 / hr ($3,500.00 Turnkey)</strong></div>
       <div><strong>Live Prototype:</strong> <span class="live-badge">Verified &amp; Audited</span></div>
     </div>
   </div>
